@@ -19,7 +19,7 @@ class Program1 {
             return binarySearch(array, lowIndex, middleIndex - 1, target);
         }
         if (midNumber < target) {
-            return binarySearch(array, middleIndex + 1, highIndex, target)
+            return binarySearch(array, middleIndex + 1, highIndex, target);
         }
         return -1;
     }

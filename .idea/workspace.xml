@@ -95,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/easy/BinarySearch/Program1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="287">
+              <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -258,16 +258,15 @@
       <workItem from="1598302842324" duration="9311000" />
       <workItem from="1598484220904" duration="14866000" />
       <workItem from="1598665488217" duration="2975000" />
-      <workItem from="1598895071368" duration="967000" />
+      <workItem from="1598895071368" duration="1482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28119000" />
+    <option name="totallyTimeSpent" value="28634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -510,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/BinarySearch/Program1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="287">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
         </state>
       </provider>
     </entry>
