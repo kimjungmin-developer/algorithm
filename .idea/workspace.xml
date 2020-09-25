@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87660d21-0c82-4dbc-ba13-43f3c1846bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cacao/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cacao/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casa/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casa/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casa/SampleProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/line/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/line/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/line/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/BSTConstrruction/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/BSTTraversal/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/ValidateBST/Program1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/MinHeightBST/Program1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/medium/SmallestDifference/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/medium/SmallestDifference/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cacao/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cacao/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/LogestPeak/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/LogestPeak/Program1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,43 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/BSTConstrruction/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-              <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/ValidateBST/Program1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="10" selection-start-line="2" selection-end-line="31" selection-end-column="1" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/medium/BSTTraversal/Program1.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/MinHeightBST/Program1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="4" selection-start-line="2" selection-end-line="57" selection-end-column="1" />
-              <folding>
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="912">
+              <caret line="48" selection-start-line="2" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -138,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/medium/BSTConstrruction/Program.java" />
         <option value="$PROJECT_DIR$/src/medium/ValidateBST/Program1.java" />
         <option value="$PROJECT_DIR$/src/medium/BSTTraversal/Program1.java" />
+        <option value="$PROJECT_DIR$/src/medium/MinHeightBST/Program1.java" />
       </list>
     </option>
   </component>
@@ -169,12 +124,6 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="casa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -182,7 +131,7 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="BSTTraversal" type="462c0819:PsiDirectoryNode" />
+              <item name="MinHeightBST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,12 +274,12 @@
       <workItem from="1600841857335" duration="9560000" />
       <workItem from="1600902293945" duration="1198000" />
       <workItem from="1600941735415" duration="2653000" />
-      <workItem from="1600984850208" duration="9818000" />
+      <workItem from="1600984850208" duration="11849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114374000" />
+    <option name="totallyTimeSpent" value="116405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49878544" weight="0.3232682" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49878544" visible="true" weight="0.3232682" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50121456" side_tool="true" weight="0.3250444" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -688,13 +637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/easy/Fibonacci/Program1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/BinarySearch/Program1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -1026,6 +968,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/BSTConstrruction/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="101" column="24" lean-forward="true" selection-start-line="101" selection-start-column="24" selection-end-line="101" selection-end-column="24" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/ValidateBST/Program1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1039,17 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/BSTConstrruction/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="102" column="9" lean-forward="true" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/BSTTraversal/Program1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1058,6 +1000,13 @@
             <element signature="e#687#688#0" expanded="true" />
             <element signature="e#729#730#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/MinHeightBST/Program1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" selection-start-line="2" selection-end-line="48" />
         </state>
       </provider>
     </entry>
