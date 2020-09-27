@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87660d21-0c82-4dbc-ba13-43f3c1846bd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/NumberOfWaysToMakeChange/Program1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/medium/NumberOfWaysToMakeChange/Program1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="219">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -99,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="949" />
     <option name="y" value="-11" />
     <option name="width" value="983" />
@@ -277,12 +276,12 @@
       <workItem from="1600841857335" duration="9560000" />
       <workItem from="1600902293945" duration="1198000" />
       <workItem from="1600941735415" duration="2653000" />
-      <workItem from="1600984850208" duration="18702000" />
+      <workItem from="1600984850208" duration="19370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123258000" />
+    <option name="totallyTimeSpent" value="123926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,8 +293,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="-7" width="655" height="695" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2736842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -314,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49878544" weight="0.3232682" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49878544" visible="true" weight="0.3232682" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50121456" side_tool="true" weight="0.3250444" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1018,8 +1016,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/NumberOfWaysToMakeChange/Program1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="3" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="219">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
