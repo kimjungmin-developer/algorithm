@@ -1,4 +1,4 @@
-package line;
+package practice.straightline;
 
 import java.util.HashMap;
 import java.util.Map;

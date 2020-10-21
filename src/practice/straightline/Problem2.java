@@ -1,4 +1,4 @@
-package line;
+package practice.straightline;
 
 import java.util.HashSet;
 import java.util.Set;

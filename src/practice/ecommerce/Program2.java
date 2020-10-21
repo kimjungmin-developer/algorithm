@@ -1,4 +1,4 @@
-//package ecommerce;
+//package practice.ecommerce;
 //
 //public class Program2 {
 //    public int solution(int n, String[] customers) {

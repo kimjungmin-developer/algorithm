@@ -1,4 +1,4 @@
-package ecommercepractice;
+package practice.ecommercepractice;
 
 import java.util.ArrayList;
 import java.util.Arrays;

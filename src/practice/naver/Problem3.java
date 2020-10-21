@@ -1,4 +1,4 @@
-package naver;
+package practice.naver;
 
 public class Problem3 {
 }
